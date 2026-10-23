@@ -2,6 +2,10 @@
 
 **`Full-stack development · Mobile apps · Infrastructure`**
 
+<p align="center">
+  <img src="assets/avatar-at-desk.png" width="480" alt="My navy-and-gold avatar, rendered in 3D, working at a computer" />
+</p>
+
 I build web and mobile applications, connect APIs and databases, and work on the infrastructure that keeps them running. I like understanding the whole system — from a tap on a phone to a transaction on the server.
 
 > Understand the system. Make the change. Verify the result.
@@ -70,22 +74,22 @@ Tools used across current and earlier projects.
 
 ## 🛠 Selected projects
 
-**[mp-stgo](https://github.com/avenuemonten/mp-stgo)**  
+**[mp-stgo](https://github.com/avenuemonten/mp-stgo)**<br>
 Mobile client with TypeScript, React, Ionic and Capacitor.
 
-**[bash-scripts2](https://github.com/avenuemonten/bash-scripts2)**  
+**[bash-scripts2](https://github.com/avenuemonten/bash-scripts2)**<br>
 Linux deployment scripts for ALD Pro and Termidesk.
 
-**[ChickiBricki](https://github.com/avenuemonten/ChickiBricki)**  
+**[ChickiBricki](https://github.com/avenuemonten/ChickiBricki)**<br>
 WhatsApp bot automation with C# and .NET.
 
-**[web-stgo](https://github.com/avenuemonten/web-stgo)**  
+**[web-stgo](https://github.com/avenuemonten/web-stgo)**<br>
 React and TypeScript web client. Fork of [Advansed/web-stgo](https://github.com/Advansed/web-stgo).
 
 ---
 
 ## ⚙️ How I work
 
-**Compatibility first.** Keep existing clients and data working.  
-**Safe retries.** Use transactions, version checks and explicit state.  
+**Compatibility first.** Keep existing clients and data working.<br>
+**Safe retries.** Use transactions, version checks and explicit state.<br>
 **Verified releases.** Test changes, prepare a rollback and check the running system.
