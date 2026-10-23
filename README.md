@@ -3,7 +3,7 @@
 **`Full-stack development · Mobile apps · Infrastructure`**
 
 <p align="center">
-  <img src="assets/avatar-at-desk.png" width="480" alt="My navy-and-gold avatar, rendered in 3D, working at a computer" />
+  <img src="assets/avatar-at-desk-v2.png" width="640" alt="My 3D avatar at a three-monitor desk with a Mac mini and an ergonomic mesh chair" />
 </p>
 
 I build web and mobile applications, connect APIs and databases, and work on the infrastructure that keeps them running. I like understanding the whole system — from a tap on a phone to a transaction on the server.
@@ -43,9 +43,9 @@ I build web and mobile applications, connect APIs and databases, and work on the
 
 **Infrastructure & delivery**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,windows,nginx,git,githubactions&amp;perline=6" alt="Docker, Linux, Windows, Nginx, Git and GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions&amp;perline=6" alt="Docker, Kubernetes, AWS, Linux, Nginx and GitHub Actions" />
 
-<sub>Also: IIS · PM2 · SSH · Playwright · Node.js Test Runner · React Testing Library</sub>
+<sub>Also: Windows Server · Git · IIS · PM2 · SSH · Playwright · Node.js Test Runner · React Testing Library</sub>
 
 **AI & background processing**
 
@@ -63,17 +63,9 @@ Tools used across current and earlier projects.
 | **Mobile** | Ionic React · Capacitor · Android · iOS · PWA |
 | **Backend & APIs** | Node.js · Express · FastAPI · .NET · REST · GraphQL · Pydantic |
 | **Data & storage** | PostgreSQL · SQL Server · Redis · Prisma · SQLAlchemy · S3 · MinIO |
-| **Infrastructure** | Linux · Windows Server · Docker · Nginx · IIS · PM2 · SSH |
+| **Infrastructure** | AWS · Kubernetes · Docker · Linux · Windows Server · Nginx · IIS · PM2 · SSH |
 | **Delivery & quality** | Git · GitHub Actions · Playwright · Node.js Test Runner · React Testing Library |
 | **AI & documents** | Ollama · Vision-language models · OCR integration · PDF processing |
 | **Background work** | Redis Queue · Asynchronous jobs · Webhooks · External API integrations |
 
 </details>
-
----
-
-## ⚙️ How I work
-
-**Compatibility first.** Keep existing clients and data working.<br>
-**Safe retries.** Use transactions, version checks and explicit state.<br>
-**Verified releases.** Test changes, prepare a rollback and check the running system.
