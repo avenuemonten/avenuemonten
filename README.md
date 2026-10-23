@@ -46,6 +46,3 @@ Tools and technologies I work with across current and earlier projects.
 - **Make retries safe.** Use explicit state, transactions and version checks to prevent duplicate operations.
 - **Verify the release.** Test in isolation, keep a rollback path and check the running system after deployment.
 
----
-
-<sub>Public projects are linked above. Client repositories, production configuration and private operational data stay private.</sub>
