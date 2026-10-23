@@ -1,31 +1,56 @@
-# avenuemonten
+# 🧑‍💻 AVENUEMONTEN
 
-**Full-stack development · Mobile applications · Infrastructure**
+**`Full-stack development · Mobile apps · Infrastructure`**
 
-I work across web interfaces, mobile clients, APIs and the systems behind them.
-My focus is reliable integrations, clear user flows and changes that preserve existing behavior.
+I build web and mobile applications, connect APIs and databases, and work on the infrastructure that keeps them running. I like understanding the whole system — from a tap on a phone to a transaction on the server.
 
-[Projects](#selected-projects) · [Technology stack](#technology-stack) · [Engineering approach](#engineering-approach)
+> Understand the system. Make the change. Verify the result.
+
+📍 Yakutsk
+
+<p align="left">
+  <a href="https://github.com/avenuemonten?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/avenuemonten?style=for-the-badge&amp;logo=github&amp;label=Follow&amp;color=C9CBFF&amp;labelColor=302D41" /></a>
+  <a href="https://github.com/avenuemonten?tab=repositories&amp;sort=stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/avenuemonten?style=for-the-badge&amp;logo=github&amp;label=Stars&amp;color=F5E0DC&amp;labelColor=302D41" /></a>
+</p>
 
 ---
 
-## Selected projects
+## 🧰 Tech & tools
 
-**[mp-stgo](https://github.com/avenuemonten/mp-stgo)**  
-Mobile client built with **TypeScript, React, Ionic and Capacitor**.
+**Languages**
 
-**[bash-scripts2](https://github.com/avenuemonten/bash-scripts2)**  
-Deployment scripts for **ALD Pro and Termidesk**.
+<img src="https://skillicons.dev/icons?i=ts,js,py,cs,bash,powershell&amp;perline=6" alt="TypeScript, JavaScript, Python, C#, Bash and PowerShell" />
 
-**[ChickiBricki](https://github.com/avenuemonten/ChickiBricki)**  
-A **C# / .NET** project for WhatsApp bot automation.
+**Frontend & mobile**
 
-**[web-stgo](https://github.com/avenuemonten/web-stgo)**  
-A **TypeScript** web client. Fork of [Advansed/web-stgo](https://github.com/Advansed/web-stgo).
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,android&amp;perline=6" alt="React, Next.js, Tailwind CSS, HTML, CSS and Android" />
 
-## Technology stack
+<sub>Also: Ionic React · Capacitor · iOS · PWA · Mantine · Apollo Client</sub>
 
-Tools and technologies I work with across current and earlier projects.
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,graphql&amp;perline=6" alt="Node.js, Express, FastAPI, .NET and GraphQL" />
+
+**Databases & storage**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,prisma&amp;perline=6" alt="PostgreSQL, Redis and Prisma" />
+
+<sub>Also: SQL Server · SQLAlchemy · S3 · MinIO</sub>
+
+**Infrastructure & delivery**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,windows,nginx,git,githubactions&amp;perline=6" alt="Docker, Linux, Windows, Nginx, Git and GitHub Actions" />
+
+<sub>Also: IIS · PM2 · SSH · Playwright · Node.js Test Runner · React Testing Library</sub>
+
+**AI & background processing**
+
+Ollama · Vision-language models · OCR integration · PDF processing · Redis Queue · Webhooks
+
+<details>
+<summary><strong>Full technology stack</strong></summary>
+
+Tools used across current and earlier projects.
 
 | Area | Technologies |
 | :--- | :--- |
@@ -39,10 +64,28 @@ Tools and technologies I work with across current and earlier projects.
 | **AI & documents** | Ollama · Vision-language models · OCR integration · PDF processing |
 | **Background work** | Redis Queue · Asynchronous jobs · Webhooks · External API integrations |
 
-## Engineering approach
+</details>
 
-- **Understand the whole flow.** Follow a request from the interface through the API, database and external systems.
-- **Preserve compatibility.** Keep existing clients and data working when the server changes.
-- **Make retries safe.** Use explicit state, transactions and version checks to prevent duplicate operations.
-- **Verify the release.** Test in isolation, keep a rollback path and check the running system after deployment.
+---
 
+## 🛠 Selected projects
+
+**[mp-stgo](https://github.com/avenuemonten/mp-stgo)**  
+Mobile client with TypeScript, React, Ionic and Capacitor.
+
+**[bash-scripts2](https://github.com/avenuemonten/bash-scripts2)**  
+Linux deployment scripts for ALD Pro and Termidesk.
+
+**[ChickiBricki](https://github.com/avenuemonten/ChickiBricki)**  
+WhatsApp bot automation with C# and .NET.
+
+**[web-stgo](https://github.com/avenuemonten/web-stgo)**  
+React and TypeScript web client. Fork of [Advansed/web-stgo](https://github.com/Advansed/web-stgo).
+
+---
+
+## ⚙️ How I work
+
+**Compatibility first.** Keep existing clients and data working.  
+**Safe retries.** Use transactions, version checks and explicit state.  
+**Verified releases.** Test changes, prepare a rollback and check the running system.
