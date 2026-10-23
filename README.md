@@ -72,22 +72,6 @@ Tools used across current and earlier projects.
 
 ---
 
-## 🛠 Selected projects
-
-**[mp-stgo](https://github.com/avenuemonten/mp-stgo)**<br>
-Mobile client with TypeScript, React, Ionic and Capacitor.
-
-**[bash-scripts2](https://github.com/avenuemonten/bash-scripts2)**<br>
-Linux deployment scripts for ALD Pro and Termidesk.
-
-**[ChickiBricki](https://github.com/avenuemonten/ChickiBricki)**<br>
-WhatsApp bot automation with C# and .NET.
-
-**[web-stgo](https://github.com/avenuemonten/web-stgo)**<br>
-React and TypeScript web client. Fork of [Advansed/web-stgo](https://github.com/Advansed/web-stgo).
-
----
-
 ## ⚙️ How I work
 
 **Compatibility first.** Keep existing clients and data working.<br>
