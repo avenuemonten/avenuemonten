@@ -27,9 +27,9 @@ I build web and mobile applications, connect APIs and databases, and work on the
 
 **Frontend & mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,android&amp;perline=6" alt="React, Next.js, Tailwind CSS, HTML, CSS and Android" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&amp;perline=6" alt="React, Next.js, Tailwind CSS, HTML and CSS" />
 
-<sub>Also: Ionic React · Capacitor · iOS · PWA · Mantine · Apollo Client</sub>
+<sub>Also: Ionic React · Capacitor · Android · iOS · PWA · Mantine · Apollo Client</sub>
 
 **Backend & APIs**
 
